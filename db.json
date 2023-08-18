@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leon S. Kennedy",
+      "email": "leon.Kennedy@rpd.com"
+    },
+    {
+      "id": 2,
+      "name": "Jill Valentine",
+      "email": "jill.valentine@stars.com"
+    },
+    {
+      "id": 3,
+      "name": "Squall Leonhart",
+      "email": "Leonhart@balambgarden.com"
+    },
+    {
+      "id": 4,
+      "name": "Quistis Trepe",
+      "email": "quistis.trepe@balambgarden.com"
+    },
+    {
+      "name": "claire",
+      "email": "calire.redfield@rpd.com",
+      "id": 6
+    }
+  ],
+  "HomeDashboard": [
+    {
+      "registeredDeletedUsers": {
+        "title": "Usuários registrados e Usuários Deletados",
+        "labels": [
+          "Deletados",
+          "Registrados"
+        ],
+        "datasets": [
+          {
+            "data": [
+              396,
+              150
+            ],
+            "label": ""
+          }
+        ]
+      }
+    },
+
+    {
+      "blockedEditedUsers": {
+        "title": "Usuários Bloqueados e Usuários Editados",
+        "labels": [
+          "Bloqueados",
+          "Editados"
+        ],
+        "datasets": [
+          {
+            "data": [
+              256,
+              333
+            ],
+            "label": ""
+          }
+        ]
+      }
+    },
+
+    {
+      "usersbyProfession": {
+        "title": "Usuários por profissão",
+        "labels": [
+          "Programador",
+          "Designer",
+          "Dentista",
+          "Médico",
+          "Veterinário",
+          "Vendendor",
+          "Operador de caixa",
+          "Arquiteto"
+        ],
+        "datasets": [
+          {
+            "data": [
+              56,
+              80,
+              120,
+              250,
+              112,
+              300,
+              344,
+              455
+            ],
+            "label": ""
+          }
+        ]
+      }
+    }
+  ]
+}
