@@ -1,29 +1,24 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Leon S. Kennedy",
-      "email": "leon.Kennedy@rpd.com"
+      "name": "Pedro",
+      "email": " pedro@pedro.com.br",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Jill Valentine",
-      "email": "jill.valentine@stars.com"
+      "name": "Fulano ",
+      "email": "fulano@fulano.com",
+      "id": 3
     },
     {
-      "id": 3,
-      "name": "Squall Leonhart",
-      "email": "Leonhart@balambgarden.com"
+      "name": "teste testando",
+      "email": "teste@testando.com",
+      "id": 4
     },
     {
-      "id": 4,
-      "name": "Quistis Trepe",
-      "email": "quistis.trepe@balambgarden.com"
-    },
-    {
-      "name": "claire",
-      "email": "calire.redfield@rpd.com",
-      "id": 6
+      "name": "teste teste",
+      "email": "teste@testando.com",
+      "id": 5
     }
   ],
   "HomeDashboard": [
@@ -45,26 +40,26 @@
         ]
       }
     },
-
     {
       "blockedEditedUsers": {
-        "title": "Usuários Bloqueados e Usuários Editados",
+        "title": "Usuários Bloqueados e Usuários Editados e Pendentes",
         "labels": [
           "Bloqueados",
-          "Editados"
+          "Editados",
+          "Pendentes"
         ],
         "datasets": [
           {
             "data": [
               256,
-              333
+              333,
+              185
             ],
             "label": ""
           }
         ]
       }
     },
-
     {
       "usersbyProfession": {
         "title": "Usuários por profissão",
